@@ -1,0 +1,71 @@
+html, body { overflow-x: hidden; }
+
+body{
+	background-color: #69DECC;
+	color: white;
+	font-family: 'Zilla Slab', serif;
+	font-size: 1.1rem;
+}
+.split{
+	width: 100%;
+	height: 720px;
+}
+
+h2 + p{
+	font-size:1.2em;
+	line-height: 1.75em;
+}
+
+#dp{
+  	width: 15.625rem;
+  	border-radius: 50%;
+}
+
+.centered{
+	padding-top: 10vh;
+	height:75vh;
+}
+
+.skill{
+	list-style-type: none;
+	padding-left: 0.5em;
+}
+
+.content
+{
+	margin-top: 100px;
+}
+
+#nav{
+	background-color: #292F3F!important;
+}
+
+#nav .navbar-brand{
+	color: #FFFFFF;
+	font-family: 'Great Vibes', cursive;
+	font-size: 1.67rem;
+}
+
+#nav .nav-link{
+	color: #FFFFFF;
+	font-weight: 100;
+}
+
+#socials{
+	height: 25vh;
+}
+
+#socials a{
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+#scroll
+{
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+.icon{
+	font-size: 1.75rem;
+}
